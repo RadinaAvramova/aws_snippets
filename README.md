@@ -1,2 +1,1 @@
-# aws_snippets
-aws_snippets
+## Welcome to AWS snippets
